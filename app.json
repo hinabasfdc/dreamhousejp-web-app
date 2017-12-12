@@ -12,6 +12,8 @@
   "website": "http://www.dreamhouseappjp.io/",
   "repository": "https://github.com/hinabasfdc/dreamhousejp-web-app",
   "addons": [
-    "heroku-postgresql"
+    {
+      "plan": "heroku-postgresql"
+    }
   ]
 }
